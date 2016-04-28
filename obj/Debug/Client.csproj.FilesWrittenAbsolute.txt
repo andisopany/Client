@@ -1,0 +1,9 @@
+/home/matt/Development/Client/Client/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/matt/Development/Client/Client/bin/Debug/Mina.NET.dll
+/home/matt/Development/Client/Client/bin/Debug/Mina.NET.dll.mdb
+/home/matt/Development/Client/Client/bin/Debug/Common.Logging.Core.dll
+/home/matt/Development/Client/Client/bin/Debug/Common.Logging.dll
+/home/matt/Development/Client/Client/bin/Debug/Client.exe.mdb
+/home/matt/Development/Client/Client/bin/Debug/Client.exe
+/home/matt/Development/Client/Client/obj/Debug/Client.exe
+/home/matt/Development/Client/Client/obj/Debug/Client.exe.mdb
